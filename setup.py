@@ -16,5 +16,5 @@ setup(
     author='Aleksandra Klimantova',
     author_email='',
     install_requires=REQUIRES,
-    description='Restclient wit Allure and Logger'
+    description='Restclient with Allure and Logger'
 )
