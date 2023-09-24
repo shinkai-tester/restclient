@@ -1,10 +1,10 @@
 from setuptools import setup
 
 REQUIRES = [
-    'requests',
-    'structlog',
-    'allure-pytest',
-    'curlify'
+    'requests>=2.31.0',
+    'structlog>=23.1.0',
+    'allure-pytest>=2.13.2',
+    'curlify>=2.2.1'
 ]
 
 setup(
